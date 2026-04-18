@@ -6,15 +6,11 @@
 python3 server.py
 ```
 
-Truy cập: http://localhost:5000  
-Trang admin: http://localhost:5000/admin  
-Tài khoản admin: `admin@banhmihuynhhoa.vn` / `admin123`
-
 ---
 
 ## Tính Năng
 
-### 🛍️ Khách Hàng
+### Khách Hàng
 - Trang chủ động với sản phẩm nổi bật, bán chạy
 - Danh mục sản phẩm (lọc, sắp xếp)
 - Trang chi tiết sản phẩm với đánh giá & sản phẩm liên quan
@@ -26,7 +22,7 @@ Tài khoản admin: `admin@banhmihuynhhoa.vn` / `admin123`
 - Trang quản lý đơn hàng cá nhân
 - Tìm kiếm sản phẩm realtime
 
-### ⚙️ Quản Trị (Admin)
+### Quản Trị (Admin)
 - Dashboard tổng quan (doanh thu, đơn hàng, KPIs)
 - Biểu đồ doanh thu 7 ngày (Chart.js)
 - Quản lý đơn hàng (lọc theo trạng thái, cập nhật 4 bước)
