@@ -1,4 +1,4 @@
-# 🥖 Bánh Mì Huynh Hoa — Nền Tảng Bán Hàng Trực Tuyến
+# 🥖 Bánh Mì Bin Bin — Nền Tảng Bán Hàng Trực Tuyến
 
 ## Khởi Động Nhanh
 
