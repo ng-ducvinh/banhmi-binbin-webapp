@@ -1,10 +1,5 @@
 # 🥖 Bánh Mì Bin Bin — Nền Tảng Bán Hàng Trực Tuyến
 
-## Khởi Động Nhanh
-
-```bash
-python3 server.py
-```
 
 ---
 
